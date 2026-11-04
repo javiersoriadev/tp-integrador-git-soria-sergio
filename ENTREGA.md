@@ -7,8 +7,8 @@ Fecha de entrega: 03/11/2026
 
 ## Enlaces
 Repositorio de GitHub: https://github.com/javiersoriadev/tp-integrador-git-soria-sergio
-Issue: [Pendiente de crear]
-Pull request: [Pendiente de crear]
+Issue: https://github.com/javiersoriadev/tp-integrador-git-soria-sergio/issues/1
+Pull request: https://github.com/javiersoriadev/tp-integrador-git-soria-sergio/pull/2
 
 ## Comandos principales utilizados
 - `git init`
